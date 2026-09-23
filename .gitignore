@@ -59,6 +59,8 @@ autoPortData/
 _archive/
 # 本地 IDE 配置
 .claude/
+# 本地工程数据（记忆 / 工作日志，属机器状态，不入仓）
+.workbuddy-ai/
 
 # Web console
 front/node_modules/
